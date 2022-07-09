@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = gabrielgsilva16@gmail.com
+	name = Gabriel Gomes da Silva
